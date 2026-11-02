@@ -1,0 +1,349 @@
+npm notice run shivam@0.1.0 dev
+npm notice run next dev
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] ./src/app/page.tsx:5:1
+Error: Module not found: Can't resolve '@/components/Hero'
+  3 | import Loader from "@/components/Loader";
+  4 | import Navbar from "@/components/Navbar";
+> 5 | import Hero from "@/components/Hero";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import About from "@/components/About";
+  7 | import Projects from "@/components/Projects";
+  8 | import FourDoors from "@/components/FourDoors";
+
+Import map: aliased to relative './src/components/Hero' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] env.wasm.numThreads is set to 18, but this will not work unless you enable crossOriginIsolated mode. See https://web.dev/cross-origin-isolation-guide/ for more info.
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] WebAssembly multi-threading is not supported in the current environment. Falling back to single-threading.
+[browser] ./src/components/Hero.tsx:5:1
+Error: Module not found: Can't resolve '@/components/BackgroundRemover'
+  3 | import { motion } from "framer-motion";
+  4 | import { useRef } from "react";
+> 5 | import BackgroundRemover from "@/components/BackgroundRemover";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 | import ThreeBackground from "./ThreeBackground";
+  7 |
+  8 | export default function Hero() {
+
+Import map: aliased to relative './src/components/BackgroundRemover' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/components/Hero.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found 
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[browser] THREE.WebGLShadowMap: PCFSoftShadowMap has been removed. Using PCFShadowMap instead.

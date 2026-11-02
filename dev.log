@@ -1,0 +1,20 @@
+▲ Next.js 16.4.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.160.14.33:3000
+✓ Ready in 707ms
+✓ Running next.config.ts took 48ms
+
+ GET / 200 in 666ms (next.js: 200ms, application-code: 466ms)
+ GET / 200 in 78ms (next.js: 2ms, application-code: 76ms)
+ GET / 200 in 130ms (next.js: 3ms, application-code: 127ms)
+ GET / 200 in 77ms (next.js: 1.8ms, application-code: 75ms)
+ GET / 200 in 102ms (next.js: 3ms, application-code: 99ms)
+ GET / 200 in 93ms (next.js: 3ms, application-code: 90ms)
+ GET / 200 in 85ms (next.js: 2ms, application-code: 83ms)
+ GET / 200 in 149ms (next.js: 3ms, application-code: 146ms)
+ GET / 200 in 118ms (next.js: 4ms, application-code: 114ms)
+ GET / 200 in 83ms (next.js: 3ms, application-code: 80ms)
+ GET / 200 in 57ms (next.js: 2ms, application-code: 55ms)
+ GET / 200 in 96ms (next.js: 3ms, application-code: 92ms)
+ GET /projects/nyra-ai 200 in 780ms (next.js: 728ms, application-code: 53ms)
+ GET /projects/villagemart 200 in 58ms (next.js: 16ms, application-code: 42ms)
